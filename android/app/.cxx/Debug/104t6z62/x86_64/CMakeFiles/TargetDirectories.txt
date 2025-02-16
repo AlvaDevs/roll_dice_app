@@ -1,0 +1,2 @@
+/Users/alvadevs/Desktop/flutter_projects/roll_dice_app/android/app/.cxx/Debug/104t6z62/x86_64/CMakeFiles/edit_cache.dir
+/Users/alvadevs/Desktop/flutter_projects/roll_dice_app/android/app/.cxx/Debug/104t6z62/x86_64/CMakeFiles/rebuild_cache.dir
