@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:roll_dice_app/gradient_container.dart';
 
-/// Entry point of the application
+/// Entry point of the application.
 ///
 /// Initializes the Flutter framework and sets up the root widget
 void main() {
